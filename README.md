@@ -75,8 +75,8 @@ In an effort to create a fairer and more sustainable public transport system, Rw
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kel1y/sentiment.git
-   cd transport-fare-sentiment
+   git clone https://github.com/Kel1y/Sentiment.git
+   cd Sentiment
    ```
 2. Create a virtual environment and activate it:
 
