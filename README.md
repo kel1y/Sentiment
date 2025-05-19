@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 Irakoze Ntawigenga Kelly
 Email: [Link](mailto:irakoze.kelly41@gmail.com)
-LinkedIn: [Link]([https://www.linkedin.com/in/irakozekelly/](https://www.linkedin.com/in/irakoze-ntawigenga-kelly-bb194a287/)
+LinkedIn: [Link](https://www.linkedin.com/in/irakoze-ntawigenga-kelly-bb194a287/)
 
 ---
 
